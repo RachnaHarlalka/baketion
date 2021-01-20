@@ -1,7 +1,7 @@
 # baketion
 The bakery shop
 
-install yarn inn your laptop
+install yarn in your laptop
 
 To install node modules run the below command in terminal
 yarn install
